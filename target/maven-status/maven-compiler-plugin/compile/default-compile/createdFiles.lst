@@ -1,0 +1,8 @@
+com\nagarro\SeleniumJava\pages\RegisterPage.class
+com\nagarro\SeleniumJava\pages\HomePage.class
+com\nagarro\SeleniumJava\pages\ProductPage.class
+com\nagarro\SeleniumJava\abstractcomponents\BasePage.class
+com\nagarro\SeleniumJava\pages\LoginPage.class
+com\nagarro\SeleniumJava\pages\FooterPage.class
+com\nagarro\SeleniumJava\util\Screenshots.class
+com\nagarro\SeleniumJava\util\TestUtil.class

@@ -1,0 +1,32 @@
+2023-01-09 19:46:13,726  INFO [main] Test01_HomePage:23 - ******************CLICK HOMEPAGE TITLE*******************
+2023-01-09 19:46:59,051  INFO [main] Test01_HomePage:37 - ******************CLICK FLIPKART LOGO*******************
+2023-01-09 19:47:44,860  INFO [main] Test01_HomePage:53 - ******************Click Login *******************
+2023-01-09 19:48:30,527  INFO [main] Test01_HomePage:67 - ******************Click To Become a Seller *******************
+2023-01-09 19:49:25,026  INFO [main] Test01_HomePage:79 - *****************Search a Product *******************
+2023-01-09 19:50:14,849  INFO [main] Test01_HomePage:91 - ******************CLICK NEXT SLIDE*******************
+2023-01-09 19:51:48,585  INFO [main] Test02_RegisterPage:22 - ******************NEW USER REGISTER*******************
+2023-01-09 19:51:51,857  INFO [main] Test02_RegisterPage:38 - ******************USER REGISTER SUCESSFULLY*******************
+2023-01-09 19:52:36,777  INFO [main] Test03_ProductPage:28 - ****************** Product Search *******************
+2023-01-09 19:52:39,946 ERROR [main] Test03_ProductPage:37 - ****************** Product *******************
+2023-01-09 19:53:26,404  INFO [main] Test03_ProductPage:44 - ****************** Product Add To Cart *******************
+2023-01-09 19:53:42,063 ERROR [main] Test03_ProductPage:56 - ****************** Product *******************
+2023-01-09 19:54:11,785  INFO [main] Test04_FooterPage:25 - ******************CLICK Copyright*******************
+2023-01-09 19:54:38,031  INFO [main] Test04_FooterPage:40 - ******************CLICK Footer LOGO*******************
+2023-01-09 19:55:36,292  INFO [main] Test04_FooterPage:54 - ******************Click To Help Center Tab *******************
+2023-01-09 19:57:09,140  INFO [main] Test04_FooterPage:67 - ******************Click To Help Center Tab *******************
+2023-01-09 19:59:20,898  INFO [main] Test04_FooterPage:83 - ******************Click GiftCard Tab *******************
+2023-01-09 19:59:58,969  INFO [main] Test04_FooterPage:96 - ******************Click To Help Center Tab *******************
+2023-01-09 20:00:39,917  INFO [main] Test04_FooterPage:109 - ******************Click To BecomeASeller Tab *******************
+2023-01-09 20:01:13,264  INFO [main] Test04_FooterPage:122 - ******************Click Payment *******************
+2023-01-09 20:01:53,985  INFO [main] Test04_FooterPage:150 - ******************Click Shipping *******************
+2023-01-09 20:02:32,850  INFO [main] Test04_FooterPage:136 - ******************Click To Facebook *******************
+2023-01-09 20:02:37,710 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2023-01-09 20:02:37,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2023-01-09 20:02:37,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-09 20:02:37,713 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-09 20:02:37,714 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/riteshgupta03/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-01-09 20:02:37,859 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2023-01-09 20:02:37,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2023-01-09 20:02:37,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-09 20:02:37,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-09 20:02:37,860 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/riteshgupta03/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

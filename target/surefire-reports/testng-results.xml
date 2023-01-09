@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="12" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T14:58:11Z" name="Surefire suite" finished-at="2023-01-09T15:00:19Z" duration-ms="127697">
+    <groups>
+      <group name="smoke">
+        <method signature="Test01_HomePage.ClickBackSlide()[pri:6, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="ClickBackSlide" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.ClickNextSlide()[pri:5, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="ClickNextSlide" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifyBecomeASellerTabTest()[pri:3, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifyBecomeASellerTabTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifyFlipkartLogoTest()[pri:1, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifyFlipkartLogoTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifyHomePageTitleTest()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifyHomePageTitleTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifyLoginTabTest()[pri:2, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifyLoginTabTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifySearchProductTest()[pri:4, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifySearchProductTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test02_RegisterPage.CreateNewuser()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test02_RegisterPage@bcec361]" name="CreateNewuser" class="com.nagarro.SeleniumJava.tests.Test02_RegisterPage"/>
+        <method signature="Test03_ProductPage.productAddToCart()[pri:1, instance:com.nagarro.SeleniumJava.tests.Test03_ProductPage@26794848]" name="productAddToCart" class="com.nagarro.SeleniumJava.tests.Test03_ProductPage"/>
+        <method signature="Test03_ProductPage.productSearch()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test03_ProductPage@26794848]" name="productSearch" class="com.nagarro.SeleniumJava.tests.Test03_ProductPage"/>
+        <method signature="Test04_FooterPage.clickToCopyRight()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="clickToCopyRight" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyAdvertiseTest()[pri:5, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyAdvertiseTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyBecomeASellerTest()[pri:6, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyBecomeASellerTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyContactUsTest()[pri:3, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyContactUsTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyFacebookTest()[pri:8, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyFacebookTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyFooterLogoTest()[pri:1, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyFooterLogoTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyGiftCardTest()[pri:4, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyGiftCardTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyHelpCenterTest()[pri:2, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyHelpCenterTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyPaymentTest()[pri:7, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyPaymentTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyShippingTest()[pri:7, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyShippingTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="Test01_HomePage.ClickBackSlide()[pri:6, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="ClickBackSlide" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifyBecomeASellerTabTest()[pri:3, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifyBecomeASellerTabTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifyFlipkartLogoTest()[pri:1, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifyFlipkartLogoTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifyHomePageTitleTest()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifyHomePageTitleTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test01_HomePage.verifySearchProductTest()[pri:4, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" name="verifySearchProductTest" class="com.nagarro.SeleniumJava.tests.Test01_HomePage"/>
+        <method signature="Test04_FooterPage.verifyFacebookTest()[pri:8, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyFacebookTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyFooterLogoTest()[pri:1, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyFooterLogoTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyGiftCardTest()[pri:4, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyGiftCardTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+        <method signature="Test04_FooterPage.verifyShippingTest()[pri:7, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" name="verifyShippingTest" class="com.nagarro.SeleniumJava.tests.Test04_FooterPage"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2023-01-09T14:58:11Z" name="Surefire test" finished-at="2023-01-09T15:00:19Z" duration-ms="127697">
+      <class name="com.nagarro.SeleniumJava.tests.Test01_HomePage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" started-at="2023-01-09T14:58:11Z" name="setup" finished-at="2023-01-09T14:58:53Z" duration-ms="41422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageTitleTest()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" started-at="2023-01-09T14:58:53Z" name="verifyHomePageTitleTest" finished-at="2023-01-09T14:58:53Z" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" started-at="2023-01-09T14:58:53Z" name="attachScreenshot" finished-at="2023-01-09T14:58:53Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomePageTitleTest status=SUCCESS method=Test01_HomePage.verifyHomePageTitleTest()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test01_HomePage@4e08711f]" started-at="2023-01-09T14:58:53Z" name="tearDown" finished-at="2023-01-09T14:58:54Z" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nagarro.SeleniumJava.tests.Test01_HomePage -->
+      <class name="com.nagarro.SeleniumJava.tests.Test03_ProductPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test03_ProductPage@26794848]" started-at="2023-01-09T14:59:23Z" name="setup" finished-at="2023-01-09T14:59:49Z" duration-ms="26023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="productSearch()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test03_ProductPage@26794848]" started-at="2023-01-09T14:59:49Z" name="productSearch" finished-at="2023-01-09T14:59:52Z" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSearch -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.nagarro.SeleniumJava.tests.Test03_ProductPage@26794848]" started-at="2023-01-09T14:59:52Z" name="attachScreenshot" finished-at="2023-01-09T14:59:52Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productSearch status=SUCCESS method=Test03_ProductPage.productSearch()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test03_ProductPage@26794848] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test03_ProductPage@26794848]" started-at="2023-01-09T14:59:52Z" name="tearDown" finished-at="2023-01-09T14:59:52Z" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nagarro.SeleniumJava.tests.Test03_ProductPage -->
+      <class name="com.nagarro.SeleniumJava.tests.Test04_FooterPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" started-at="2023-01-09T14:59:52Z" name="setup" finished-at="2023-01-09T15:00:19Z" duration-ms="26290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickToCopyRight()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" started-at="2023-01-09T15:00:19Z" name="clickToCopyRight" finished-at="2023-01-09T15:00:19Z" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickToCopyRight -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" started-at="2023-01-09T15:00:19Z" name="tearDown" finished-at="2023-01-09T15:00:19Z" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec]" started-at="2023-01-09T15:00:19Z" name="attachScreenshot" finished-at="2023-01-09T15:00:19Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickToCopyRight status=SUCCESS method=Test04_FooterPage.clickToCopyRight()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test04_FooterPage@302552ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+      </class> <!-- com.nagarro.SeleniumJava.tests.Test04_FooterPage -->
+      <class name="com.nagarro.SeleniumJava.tests.Test02_RegisterPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test02_RegisterPage@bcec361]" started-at="2023-01-09T14:58:54Z" name="setup" finished-at="2023-01-09T14:59:19Z" duration-ms="25689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CreateNewuser()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test02_RegisterPage@bcec361]" started-at="2023-01-09T14:59:19Z" name="CreateNewuser" finished-at="2023-01-09T14:59:23Z" duration-ms="3387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewuser -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.nagarro.SeleniumJava.tests.Test02_RegisterPage@bcec361]" started-at="2023-01-09T14:59:23Z" name="attachScreenshot" finished-at="2023-01-09T14:59:23Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateNewuser status=SUCCESS method=Test02_RegisterPage.CreateNewuser()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test02_RegisterPage@bcec361] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.SeleniumJava.tests.Test02_RegisterPage@bcec361]" started-at="2023-01-09T14:59:23Z" name="tearDown" finished-at="2023-01-09T14:59:23Z" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nagarro.SeleniumJava.tests.Test02_RegisterPage -->
+      <class name="com.nagarro.SeleniumJava.tests.BaseTest">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.nagarro.SeleniumJava.tests.BaseTest@4b2bac3f]" started-at="2023-01-09T14:58:11Z" name="setExtent" finished-at="2023-01-09T14:58:11Z" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.nagarro.SeleniumJava.tests.BaseTest@4b2bac3f]" started-at="2023-01-09T15:00:19Z" name="endReport" finished-at="2023-01-09T15:00:19Z" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.nagarro.SeleniumJava.tests.BaseTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+com\nagarro\SeleniumJava\tests\Test01_HomePage.class
+com\nagarro\SeleniumJava\tests\Test02_RegisterPage.class
+com\nagarro\SeleniumJava\tests\Test04_FooterPage.class
+com\nagarro\SeleniumJava\tests\BaseTest.class
+com\nagarro\SeleniumJava\tests\DataDriven.class
+com\nagarro\SeleniumJava\tests\Test03_ProductPage.class
